@@ -1,6 +1,7 @@
 body{
   background: black;
   text-align: center;
-  font-family: Verdana;
+  font-family: "Verdana";
+  font-weight: normal;
   color: white;
 }
