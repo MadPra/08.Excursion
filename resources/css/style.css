@@ -5,3 +5,13 @@ body{
   font-weight: normal;
   color: white;
 }
+
+ p a{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p{
+  color: grey;
+  font-size: 21px;
+}
